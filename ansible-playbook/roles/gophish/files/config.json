@@ -1,7 +1,7 @@
 {
 	"admin_server": {
 		"listen_url": "127.0.0.1:3333",
-		"use_tls": true,
+		"use_tls": false,
 		"cert_path": "/etc/ssl/crt/gophish.crt",
 		"key_path": "/etc/ssl/private/gophish.pem"
 	},
